@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  wonders.api:
+    image: wonders.api
+    build:
+      context: .
+      dockerfile: Wonders.Api/Dockerfile
