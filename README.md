@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Continuous-Delivery-with-Visual-Studio-Team-Services
 
 This is the code repository for [Continuous Delivery with Visual Studio Team Services [Video]](https://prod.packtpub.com/in/virtualization-and-cloud/continuous-delivery-visual-studio-team-services-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
